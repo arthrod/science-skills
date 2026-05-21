@@ -1,7 +1,7 @@
 {
   "name": "science",
-  "version": "1.0.0",
-  "description": "Curated collection of agent skills for science tasks.",
+  "version": "1.1.0",
+  "description": "A curated collection of 50+ agent skills spanning genomics, structural biology, cheminformatics, literature search & retrieval, economics, government data, and legal research. Includes skills for AlphaFold, PubChem, ChEMBL, UniProt, Ensembl, NCBI, gnomAD, GTEx, STRING, Open Targets, Semantic Scholar, Crossref, arXiv, Papers With Code, FRED, World Bank, CourtListener, and many more.",
   "author": {
     "name": "Google"
   },
